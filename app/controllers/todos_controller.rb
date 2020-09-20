@@ -13,5 +13,4 @@ class TodosController < ApplicationController
     end
     render json: todo
   end
-
 end
